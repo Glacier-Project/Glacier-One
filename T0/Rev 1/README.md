@@ -1,0 +1,2 @@
+# T0 Rev. 1
+T0 Revision 1 is (obviously) the precursor to Revision 2. It was built on a breadboard, with a Waveshare RP2040 Plus 4MB, a Nokia 5110 LCD board, a 4x4 keypad matrix, and a Waveshare cellular module. Connections to the peripherals are nearly identical to Revision 2. Revision 1 uses the codename "Animus" in Glacier OS.
